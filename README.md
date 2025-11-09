@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Ok Computer Animation GIF.gif" alt="Banner de Xaquín Valeiro" width="200">
+  <img src="./cyber.gif" alt="Banner de Xaquín Valeiro" width="900">
 </p>
 <h1 align="center">Hi 👋, I'm Xaquín Valeiro</h1>
 <h3 align="center">A passionate computer engineer from A Coruña, Spain</h3>
