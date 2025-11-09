@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xaquín Valeiro</h1>
-![Ok Computer Animation GIF](https://github.com/user-attachments/assets/0f8c7681-af45-4ce9-8a21-6689b2e0eb24)
+![Ok Computer Animation GIF](./)
 
 
 <h3 align="center">A passionate computer engineer from A Coruña, Spain</h3>
