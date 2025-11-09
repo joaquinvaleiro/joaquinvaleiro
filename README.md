@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xaquín Valeiro</h1>
-![git_gif](https://github.com/user-attachments/assets/5c3f9cc3-b30a-4e04-b92e-537baba04cf7)
+![Image](https://github.com/user-attachments/assets/fa864ca9-9097-4b12-b538-34d5a308100a)
 
 <h3 align="center">A passionate computer engineer from A Coruña, Spain</h3>
 
