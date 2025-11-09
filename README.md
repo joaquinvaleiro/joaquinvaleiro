@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Xaquín Valeiro</h1>
 <h3 align="center">A passionate computer engineer from A Coruña, Spain</h3>
 
-- 🔭 I’m currently working on **INIBIC`s biomedical projects**
+- 🔭 I’m currently working on **INIBIC`s Biomedical Projects**
 
-- 🌱 I’m currently studying **Master of Bioniformatics for Health Sciences**
+- 🌱 I’m currently studying **Master of Bioninformatics for Health Sciences**
 
 - 📫 How to reach me **xaquinvaleiro@gmail.com**
 
